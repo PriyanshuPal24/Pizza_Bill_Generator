@@ -1,2 +1,2 @@
 # Pizza_Bill_Generator
-Pizza Bill Generator is a simple Java program for generating bills for pizza orders.
+This project is a Java Console Application which helps you to personalize your pizza and calculate the bill.
